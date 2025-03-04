@@ -1,5 +1,7 @@
 # Hyprland Discord Presence
 
+![Hyprland Discord Presence Screenshot](assets/hyprland-discord-presence.png)
+
 Hyprland Discord Presence is a lightweight daemon that updates your **Discord Rich Presence** based on the currently active window in **Hyprland** (a dynamic tiling Wayland compositor). It provides real-time window tracking and can be optionally run in a streaming mode.
 
 ## Features
